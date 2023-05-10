@@ -15,3 +15,13 @@ class Main
     system.out.println("Hello World")
 
 }
+
+
+class Main
+           Public Static Void Main
+          Code ////
+{ 
+
+    system.out.println("Hello World")
+
+}
