@@ -1,0 +1,6 @@
+Class Launch
+Public Static Void Main(strings[] args){
+     {
+      System.out.println("Hello All")
+     }
+ }
